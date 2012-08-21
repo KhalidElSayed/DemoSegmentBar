@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 白色 -->
+    <color name="white">#FFFFFF</color>
+    <!-- 较深的灰黑色 -->
+    <color name="deep_gray">#404040</color>
+
+</resources>
